@@ -1,11 +1,12 @@
 # EasySpider
 
 [Python爬虫学习系列教程](http://cuiqingcai.com/1052.html)
+
 一、爬虫入门
 
-1. Python爬虫入门一之综述
+1. [Python爬虫入门一之综述](http://cuiqingcai.com/927.html)
 
-2. Python爬虫入门二之爬虫基础了解
+2. [Python爬虫入门二之爬虫基础了解](http://cuiqingcai.com/942.html)
 
 3. Python爬虫入门三之Urllib库的基本使用
 
